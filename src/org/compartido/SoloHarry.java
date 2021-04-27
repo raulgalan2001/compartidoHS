@@ -5,8 +5,11 @@ public class SoloHarry {
 		System.out.println("HARRY");
 	}
 	
+	private void sally() {
+		System.out.println("SALLY");
+	}	
+	
 	private void harry() {
 		System.out.println("HARRY");
 	}
-
 }
